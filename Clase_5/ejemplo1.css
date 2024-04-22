@@ -1,0 +1,36 @@
+h1{
+    color: red;   /*esto es un comentario en css*/
+    background-color: blue;   /*color del fondo*/
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: yellow;
+}
+
+.destacados{
+    color: orange;
+    font-weight: bold; /*negrita*/
+    font-style: italic; /*estilo de letra*/
+    font-size: 22px; /*tamaño*/
+}
+
+#rojo{
+    width: 350px;
+    height: 350px;
+    background-color: red;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid black; 
+    margin-left: 150px;
+}
+#rojo p,
+#azul p{
+    color: white;
+}
+
+#azul{
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+}
