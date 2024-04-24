@@ -1,0 +1,25 @@
+/*font-family: "Open Sans", sans-serif;*/
+
+.texto{
+    background-color: yellow;
+    column-count: 2; /*cantidad de columnas*/
+    column-gap: 60px; /*separacion de columnas*/
+    column-rule: 3px solid black;
+}
+
+.texto p{
+    margin: 0;
+}
+
+h1, h2{
+    font-family: "Open Sans", sans-serif;
+}
+
+p{
+    font-family: "Open Sans", sans-serif;
+}
+
+.iconos{
+    font-size: 200px;
+    color: aqua;
+}
